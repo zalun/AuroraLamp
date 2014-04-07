@@ -27,7 +27,7 @@ float bSignBlue = 0.75;
 
 const int STEP = 10; // milliseconds 
 const int PI180 = PI/180;
-const int BRIGHT = 18;
+const int BRIGHT = 10;
 
 void setup() {
    Serial.begin(9600);
